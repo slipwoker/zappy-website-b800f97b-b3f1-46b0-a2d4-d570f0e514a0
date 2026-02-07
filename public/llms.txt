@@ -1,0 +1,89 @@
+# מרכז החיפויים ליאור דיזיין — Generative Engine Optimization Map
+
+> A General business.
+
+---
+
+## Pages
+
+### Home
+https://-b800f97b.zappy5.app
+
+### About
+https://-b800f97b.zappy5.app/about
+
+### Projects
+https://-b800f97b.zappy5.app/projects
+
+### Contact
+https://-b800f97b.zappy5.app/contact
+
+### Products
+https://-b800f97b.zappy5.app/products
+המוצרים שלנו - מרכז החיפויים ליאור דיזיין
+
+### Cart
+https://-b800f97b.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-b800f97b.zappy5.app/checkout
+תשלום
+
+### Login
+https://-b800f97b.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-b800f97b.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-b800f97b.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-b800f97b.zappy5.app/product/:slug
+פרטי המוצר - מרכז החיפויים ליאור דיזיין
+
+### Category
+https://-b800f97b.zappy5.app/category/:slug
+מוצרים - מרכז החיפויים ליאור דיזיין
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b800f97b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b800f97b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b800f97b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מרכז החיפויים ליאור דיזיין
+מרכז החיפויים ליאור דיזיין is a business in the General industry.
+
+## Target Audience
+- מעצבי פנים
+- משפצי בתים
+- יזמי נדל"ן
+- בעלי בתים יוקרתיים
+- מנהלי נכסים מסחריים
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-b800f97b.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-b800f97b.zappy5.app/robots.txt
